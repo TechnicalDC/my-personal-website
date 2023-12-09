@@ -26,7 +26,7 @@ layoutBackgroundHeaderSpace: false
 
 {{< timeline >}}
 
-{{< timelineItem icon="dot" header="Aliter Business Solutions" badge="Aug 2021 - present" subheader="QAD Technical Consultant and Developer" >}}
+{{< timelineItem icon="" header="Aliter Business Solutions" badge="Aug 2021 - present" subheader="QAD Technical Consultant and Developer" >}}
 
 {{< badge >}}
 Progress 4GL
@@ -38,7 +38,6 @@ Progress 4GL
 
 ## Education
 {{< timeline >}}
-
-{{< timelineItem icon="dot" header="Bachelor Of Science" badge="May 2021" subheader="Information Technology" >}}
+{{< timelineItem icon="" header="Bachelor Of Science" badge="May 2021" subheader="Information Technology" >}}
 {{< /timelineItem >}}
 {{< /timeline >}}
