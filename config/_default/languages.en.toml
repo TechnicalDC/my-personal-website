@@ -16,8 +16,8 @@ title = ""
 [author]
   name = "Dilip Chauhan"
   image = "profile.png"
-  headline = "Progress 4GL Developer"
-  bio = "Progress 4GL Developer"
+  headline = "Software Developer and Tech Geek"
+  bio = "Software Developer and Tech Geek"
   links = [
     # { email = "mailto:chauhadilip305@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -60,6 +60,6 @@ title = ""
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+    { youtube = "https://www.youtube.com/@TheTechnicalDC" },
 #     { ko-fi = "https://ko-fi.com/username" },
   ]

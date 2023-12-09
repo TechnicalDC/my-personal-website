@@ -26,18 +26,16 @@ layoutBackgroundHeaderSpace: false
 
 {{< timeline >}}
 
-{{< timelineItem icon="" header="Aliter Business Solutions" badge="Aug 2021 - present" subheader="QAD Technical Consultant and Developer" >}}
-
+{{< timelineItem icon="" header="QAD ERP Developer @ Aliter Business Solutions Private Limited" badge="" subheader="Aug 2021 - Present" >}}
+<br>
 {{< badge >}}
 Progress 4GL
 {{< /badge >}}
-
 {{< /timelineItem >}}
-
 {{< /timeline >}}
 
 ## Education
 {{< timeline >}}
-{{< timelineItem icon="" header="Bachelor Of Science" badge="May 2021" subheader="Information Technology" >}}
+{{< timelineItem icon="" header="Bachelor Of Science (Information Technology)" badge="" subheader="University of Mumbai" >}}
 {{< /timelineItem >}}
 {{< /timeline >}}
