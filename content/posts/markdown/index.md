@@ -3,10 +3,9 @@ title: "Markdown"
 date: 2023-12-09
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 draft: false
+summary: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags: ["markdown", "css", "html"]
 ---
-
-This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.
 
 ## Headings
 

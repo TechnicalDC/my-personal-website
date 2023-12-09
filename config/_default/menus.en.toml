@@ -11,19 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
-  weight = 10
+  name = "About"
+  pageRef = "about"
+  weight = 3
 
 [[main]]
   name = "Portfolio"
   pageRef = "portfolio"
-  weight = 10
+  weight = 2
 
 [[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 10
+  name = "Posts"
+  pageRef = "posts"
+  weight = 1
 
 #[[main]]
 #  name = "Parent"
