@@ -21,6 +21,11 @@
   weight = 2
 
 [[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 1
+
+[[main]]
   name = "Posts"
   pageRef = "posts"
   weight = 1
