@@ -22,17 +22,22 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-{{< carousel images="*" aspectRatio="16-9" interval="2500" >}}
+{{< carousel images="skills/*" aspectRatio="16-9" interval="2500" >}}
 
 ## Experience
 
 {{< timeline >}}
 
 {{< timelineItem icon="" header="QAD ERP Developer @ Aliter Business Solutions Private Limited" badge="" subheader="Aug 2021 - Present" >}}
-<br>
+
 {{< badge >}}
 Progress 4GL
 {{< /badge >}}
+
+{{< figure
+    src="aliter.png"
+    alt="Abstract purple artwork"
+>}}
 {{< /timelineItem >}}
 {{< /timeline >}}
 
