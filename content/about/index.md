@@ -25,11 +25,3 @@ I am Progress 4GL developer with 2+ years of work expoerince. Currently working 
 Mumbai based company [Aliter Business Solutions Private Limited](https://www.alitersolutions.com/).
 I am passionate about leveraging my skills in software development to develop
 innovative and robust solutions. 
-
-## Technology I have worked with
-
-- Progress 4GL
-- Linux
-- Bash shell
-- GItlab
-- Git

@@ -22,6 +22,8 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
+{{< carousel images="*" aspectRatio="16-9" interval="2500" >}}
+
 ## Experience
 
 {{< timeline >}}
