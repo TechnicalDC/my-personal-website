@@ -3,7 +3,7 @@ title: "My first post"
 date: 2023-12-09
 draft: false
 summary: "This is my first post on my site"
-tags: ["space"]
+tags: ["hugo", "blowfish"]
 ---
 
 ## First post with Huge and Blowfish
