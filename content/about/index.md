@@ -27,4 +27,6 @@ Limited](https://www.alitersolutions.com/). I am passionate about leveraging my
 skills in software development to develop innovative and robust solutions for
 our client with aim to bring best possible outcome for them. 
 
-Currently, I am focused on pushing my technical skills even further.
+Currently, I am focused on pushing my technical skills even further. Also,
+created my own youtube channel [TheTechnicalDC](https://www.youtube.com/@TheTechnicalDC)
+for linux and other technical things.
