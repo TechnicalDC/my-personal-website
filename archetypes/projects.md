@@ -1,7 +1,7 @@
 ---
-title: 'Demo Project'
-date: 2023-12-11T18:59:07+05:30
-draft: false
+title : '{{ replace .File.ContentBaseName "-" " " | title }}'
+date : {{ .Date }}
+draft : true
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false

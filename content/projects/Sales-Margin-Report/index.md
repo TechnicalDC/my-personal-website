@@ -1,18 +1,16 @@
 ---
-title: "Projects"
-date: 2022-06-13T20:55:37+01:00
+title: 'Sales Margin Report'
+date: 2022-12-11T18:59:07+05:30
 draft: false
-
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
 showPagination : true
 showReadingTime : false
-showTableOfContents : false
+showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
-showSummary : false
+showSummary : true
 sharingLinks : false
+showRelatedContent: false
 ---
-
-> Work in progress

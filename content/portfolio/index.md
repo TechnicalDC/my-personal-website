@@ -39,12 +39,31 @@ Progress 4GL
     alt="Abstract purple artwork"
 >}}
 {{< /timelineItem >}}
+
+{{< timelineItem icon="" header="QAD ERP Developer @ Amcor Flexible Packaging Limited" badge="" subheader="April 2022 - Present" >}}
+
+{{< badge >}}
+Progress 4GL
+{{< /badge >}}
+
+{{< figure
+    src="amcor.png"
+    alt="amcor logo"
+>}}
+
+{{< /timelineItem >}}
 {{< /timeline >}}
 
 ## Education
 {{< timeline >}}
 {{< timelineItem icon="" header="Bachelor Of Science (Information Technology)" badge="" subheader="University of Mumbai" >}}
 {{< /timelineItem >}}
+{{< timelineItem icon="" header="HSC" badge="" subheader="M.G.M College of Science" >}}
+{{< /timelineItem >}}
+{{< timelineItem icon="" header="SSC" badge="" subheader="Father Agnel’s High School" >}}
+{{< /timelineItem >}}
 {{< /timeline >}}
 
 ## Certificates
+
+> Needs to be added!

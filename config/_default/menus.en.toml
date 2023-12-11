@@ -28,7 +28,7 @@
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 1
+  weight = 3
 
 [[main]]
   name = "Posts"
