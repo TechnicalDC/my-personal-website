@@ -46,3 +46,5 @@ Progress 4GL
 {{< timelineItem icon="" header="Bachelor Of Science (Information Technology)" badge="" subheader="University of Mumbai" >}}
 {{< /timelineItem >}}
 {{< /timeline >}}
+
+## Certificates
