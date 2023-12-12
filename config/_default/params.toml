@@ -19,8 +19,8 @@ mainSections = ["posts"]
 disableImageOptimization = false
 disableTextInHeader = true
 
-defaultBackgroundImage = "backgrounds/homepage-2.jpg" # used as default for background images 
-defaultFeaturedImage = "backgrounds/homepage-2.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "backgrounds/homepage-3.jpg" # used as default for background images 
+defaultFeaturedImage = "backgrounds/homepage-3.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -38,7 +38,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "backgrounds/homepage-2.jpg" # used in: hero, and card
+  homepageImage = "backgrounds/homepage-3.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
