@@ -64,6 +64,3 @@ Progress 4GL
 {{< /timelineItem >}}
 {{< /timeline >}}
 
-## Certificates
-
-> Needs to be added!
