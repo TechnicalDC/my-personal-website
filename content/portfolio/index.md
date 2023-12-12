@@ -22,8 +22,6 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-{{< carousel images="skills/*" aspectRatio="16-9" interval="2500" >}}
-
 ## Experience
 
 {{< timeline >}}
@@ -64,3 +62,17 @@ Progress 4GL
 {{< /timelineItem >}}
 {{< /timeline >}}
 
+## Skills
+### Languages
+<table>
+    <tbody>
+        <tr>
+            <td><img class="customEntitityLogo" src="skills/bash.png" alt="nodejs"/></td>
+            <td><img class="customEntitityLogo" src="skills/bash.png" alt="nodejs"/></td>
+            <td><img class="customEntitityLogo" src="skills/bash.png" alt="nodejs"/></td>
+        </tr>
+    </tbody>
+</table>
+
+### Frameworks
+### Tools
