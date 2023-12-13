@@ -72,7 +72,7 @@ Progress 4GL
 ### Frameworks
 ### Tools
 {{< gallery >}}
-  <img src="skills/linux.png" class="grid-w33 rounded-md" />
+  <img src="skills/linux.jpg" class="grid-w33 rounded-md" />
   <img src="skills/git.png" class="grid-w33 rounded-md" />
   <img src="skills/gitlab.png" class="grid-w33 rounded-md" />
 {{< /gallery >}}
