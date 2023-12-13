@@ -11,7 +11,7 @@ showAuthor : false
 showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
-showSummary :false
+showSummary : false
 sharingLinks : false
 showRelatedContent: false
 ---
