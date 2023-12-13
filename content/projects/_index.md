@@ -14,5 +14,3 @@ showWordCount : false
 showSummary : false
 sharingLinks : false
 ---
-
-> Work in progress

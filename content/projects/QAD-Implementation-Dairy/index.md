@@ -1,7 +1,7 @@
 ---
-title: 'Sales Margin Report'
-date: 2022-12-11T18:59:07+05:30
-draft: false
+title : 'QAD Implementation Dairy'
+date : 2022-08-13T22:02:39+05:30
+draft : false
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
@@ -17,5 +17,6 @@ showRelatedContent: false
 ---
 
 - Communicating with the client and gathering their business requirements
-- Developed QRF Report to extract the required details.
-- Designed the report layout Excel compatible format
+- Developed multiple browses and QRF Report to display the required details.
+- Provided technical support to the team members 
+- Performed code migrations
