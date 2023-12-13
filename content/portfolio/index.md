@@ -65,14 +65,18 @@ Progress 4GL
 ## Skills
 ### Languages
 {{< gallery >}}
-  <img src="skills/bash.jpg" class="grid-w33 rounded-md" />
-  <img src="skills/progress.png" class="grid-w33 rounded-md" />
+  <img src="skills/bash.jpg" class="grid-w25 rounded-md" />
+  <img src="skills/progress.png" class="grid-w25 rounded-md" />
 {{< /gallery >}}
 
 ### Frameworks
+{{< gallery >}}
+  <img src="skills/hugo.png" class="grid-w25 rounded-md" />
+{{< /gallery >}}
+
 ### Tools
 {{< gallery >}}
-  <img src="skills/linux.jpg" class="grid-w33 rounded-md" />
-  <img src="skills/git.png" class="grid-w33 rounded-md" />
-  <img src="skills/gitlab.png" class="grid-w33 rounded-md" />
+  <img src="skills/linux.jpg" class="grid-w25 rounded-md" />
+  <img src="skills/git.png" class="grid-w25 rounded-md" />
+  <img src="skills/gitlab.png" class="grid-w25 rounded-md" />
 {{< /gallery >}}
