@@ -64,15 +64,15 @@ Progress 4GL
 
 ## Skills
 ### Languages
-<table>
-    <tbody>
-        <tr>
-            <td><img class="customEntitityLogo" src="skills/bash.png" alt="nodejs"/></td>
-            <td><img class="customEntitityLogo" src="skills/bash.png" alt="nodejs"/></td>
-            <td><img class="customEntitityLogo" src="skills/bash.png" alt="nodejs"/></td>
-        </tr>
-    </tbody>
-</table>
+{{< gallery >}}
+  <img src="skills/bash.png" class="grid-w33" />
+  <img src="skills/progress.png" class="grid-w33" />
+{{< /gallery >}}
 
 ### Frameworks
 ### Tools
+{{< gallery >}}
+  <img src="skills/linux.png" class="grid-w33" />
+  <img src="skills/git.png" class="grid-w33" />
+  <img src="skills/gitlab.png" class="grid-w33" />
+{{< /gallery >}}
