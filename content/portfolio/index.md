@@ -72,6 +72,7 @@ Progress 4GL
 ### Frameworks
 {{< gallery >}}
   <img src="skills/hugo.png" class="grid-w25 rounded-md" />
+  <img src="skills/flask.jpg" class="grid-w25 rounded-md" />
 {{< /gallery >}}
 
 ### Tools
