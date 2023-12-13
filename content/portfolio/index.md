@@ -65,7 +65,7 @@ Progress 4GL
 ## Skills
 ### Languages
 {{< gallery >}}
-  <img src="skills/bash.png" class="grid-w33 rounded-md" />
+  <img src="skills/bash.jpg" class="grid-w33 rounded-md" />
   <img src="skills/progress.png" class="grid-w33 rounded-md" />
 {{< /gallery >}}
 
