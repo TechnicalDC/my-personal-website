@@ -30,3 +30,6 @@ our client with aim to bring best possible outcome for them.
 Currently, I am focused on pushing my technical skills even further. Also,
 created my own youtube channel [TheTechnicalDC](https://www.youtube.com/@TheTechnicalDC)
 for linux and other technical things.
+
+
+<!-- {{< mdimporter url="https://raw.githubusercontent.com/TechnicalDC/TechnicalDC/main/README.md" >}} -->

@@ -15,3 +15,4 @@ of an amazing tool written in go-lang called Slides.
 Doing your technical presentation in terminal with this tool
 would be truly unique to stand out in your class or office.
 
+{{< youtube hKINLG0ka5g >}}
