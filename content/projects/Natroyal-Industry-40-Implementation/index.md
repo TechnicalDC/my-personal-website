@@ -9,11 +9,12 @@ showPagination : true
 showReadingTime : false
 showAuthor : false
 showTableOfContents : true
-showTaxonomies : false 
+showTaxonomies : true
 showWordCount : false
 showSummary : false
 sharingLinks : false
 showRelatedContent: false
+tags: ["Progress 4GL"]
 ---
 - Developed multiple customer QRF reports and browses
 - Developed custom maintenance programs as per business requirements

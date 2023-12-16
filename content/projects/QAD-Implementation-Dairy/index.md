@@ -9,11 +9,12 @@ showPagination : true
 showReadingTime : false
 showAuthor : false
 showTableOfContents : true
-showTaxonomies : false 
+showTaxonomies : true
 showWordCount : false
 showSummary : false
 sharingLinks : false
 showRelatedContent: false
+tags: ["Progress 4GL"]
 ---
 
 - Communicating with the client and gathering their business requirements
