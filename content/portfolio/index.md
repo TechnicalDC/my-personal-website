@@ -81,3 +81,6 @@ Progress 4GL
   <img src="skills/git.png" class="grid-w25 rounded-md" />
   <img src="skills/gitlab.png" class="grid-w25 rounded-md" />
 {{< /gallery >}}
+
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechnicalDC&show_icons=true&theme=dark&layout=compact"/>
