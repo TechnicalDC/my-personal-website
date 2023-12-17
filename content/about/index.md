@@ -21,6 +21,8 @@ showRelatedContent: false
 layoutBackgroundHeaderSpace: false
 ---
 
+![profile.jpg](profile.jpg)
+
 I am software developer with 2+ years of work experience in ERP industry.
 Currently working for Mumbai based company [Aliter Business Solutions Private
 Limited](https://www.alitersolutions.com/). I am passionate about leveraging my
